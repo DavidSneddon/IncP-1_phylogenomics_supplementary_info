@@ -1,0 +1,1 @@
+This repository contains all supplementary material referenced in the manuscript "Not So Mosaic After All? The Core Genomes of IncP-1 Plasmids Evolve Predominantly Through Vertical Transmission" by Sneddon _et al._ Current version of the manuscript is available on bioRxiv (doi: https://doi.org/10.1101/2025.08.13.669769).
